@@ -10,7 +10,7 @@ java -jar jeu-echecs.jar
 ```
 
 To move a chess piece:
-```bash
+```
 Joueur Blanc ? a2 a4
 ```
 
